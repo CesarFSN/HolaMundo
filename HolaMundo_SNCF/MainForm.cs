@@ -1,10 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: cesarfernando1
+ * User: Cesar Fernando
  * Date: 2/20/2025
- * Time: 8:52 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ * Time: 8:52 PM 
  */
 using System;
 using System.Collections.Generic;
@@ -28,6 +26,14 @@ namespace HolaMundo_SNCF
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+		}
+		void MainFormLoad(object sender, EventArgs e)
+		{
+	
+		}
+		void Label1Click(object sender, EventArgs e)
+		{
+	
 		}
 	}
 }
