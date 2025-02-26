@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe.config
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.pdb
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.exe
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.pdb
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.MainForm.resources
+\\Mac\Home\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csproj.GenerateResource.Cache
